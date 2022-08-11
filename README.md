@@ -3,3 +3,11 @@ Learning about Computer Networks, an interconnection of multiple devices, also k
 
 <br>
 freeCodeCamp.org - Computer Networking Course - https://www.youtube.com/watch?v=qiQR5rTSshw
+
+<br>
+<br>
+
+
+Practice and Interview Questions - <br> 
+https://www.interviewbit.com/networking-interview-questions/<br>
+https://www.javatpoint.com/networking-interview-questions<br>
